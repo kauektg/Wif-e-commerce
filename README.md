@@ -1,3 +1,5 @@
-# Responsive Ecommerce Website Using HTML CSS & JavaScript.
+# Wif-e-commerce
 
-Website I'm building for my wife's shop
+Responsive Ecommerce Website Using HTML CSS & JavaScript.
+
+Website I'm building for my wife's shop.
